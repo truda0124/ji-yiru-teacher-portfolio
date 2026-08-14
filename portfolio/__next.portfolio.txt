@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[39756,["/ji-yiru-teacher-portfolio/_next/static/chunks/13h-0fd.p-1ga.js","/ji-yiru-teacher-portfolio/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+3:I[37457,["/ji-yiru-teacher-portfolio/_next/static/chunks/13h-0fd.p-1ga.js","/ji-yiru-teacher-portfolio/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+:HL["/ji-yiru-teacher-portfolio/_next/static/chunks/0pj-1vzz5by6d.css","style"]
+0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/ji-yiru-teacher-portfolio/_next/static/chunks/0pj-1vzz5by6d.css","precedence":"next"}]],["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"7jv9vWgbp4q862oeDI1mD"}

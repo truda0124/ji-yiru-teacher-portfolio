@@ -1,0 +1,3 @@
+:HL["/ji-yiru-teacher-portfolio/_next/static/chunks/0.4zy-0gbdpm-.css","style"]
+:HL["/ji-yiru-teacher-portfolio/_next/static/chunks/0pj-1vzz5by6d.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"portfolio","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"7jv9vWgbp4q862oeDI1mD"}
